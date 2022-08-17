@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding:0;
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 25px;
+    font-weight: 700;
+}
+.wrapper{
+    width: 50%;
+    margin-left: 300px;
+}
+.wrapper form input {
+    border-color: green;
+}
+.wrapper button{
+    margin-left: 3px;
+}
+.wrapper button:hover{
+    background-color: green;
+}
+.row .card{
+    box-shadow: none;
+    border: none;
+}
+h4{
+    color: green;
+}
+#addBtn{
+   background-color: green;
+   border-color: green;
+}
+.wrp{
+    background-color: white;
+    
+
+}
+.bg{
+    background-color: green;
+}
+button.btn{
+    background-color: green;
+}
+button.btn:hover{
+    background-color: rgb(39, 180, 39);
+    font-weight: 700;
+}
+#addTxt{
+    box-shadow: none;
+}
+#addTitle{
+    box-shadow: none;
+}
+#searchTxt{
+    box-shadow: none;
+}

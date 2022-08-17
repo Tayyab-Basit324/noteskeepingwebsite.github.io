@@ -1,0 +1,14 @@
+@media (max-width:991px) {
+    .wrapper {
+        width: 50%;
+        margin-left: 200px;
+    
+}
+}
+@media (max-width:767px) {
+    .wrapper {
+        width: 60%;
+        margin-left: 123px;
+    
+}
+}
